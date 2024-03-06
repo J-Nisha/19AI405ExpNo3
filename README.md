@@ -65,7 +65,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>If Not Visited, add it to the Queue. Else Continue.</li>
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
-</ol>
+
 ### program 
 ```
 from collections import deque
